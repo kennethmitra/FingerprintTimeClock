@@ -43,7 +43,6 @@
 			<p style="color:white;">Go to the "Search Attendance" tab to get a list of people who signed in on a particuar date</p>
 			<noscript>
 			    <h1 style="color: yellow">This page works better with javascript enabled</h1>
-					<h3>But Kenneth the Genius has programmed the web page to accomodate your anti Javascript stance</h3>
 			</noscript>
 		</div>
 	<div id="tableContainer" class="animated bounceInUp"><!--Begin Container -->
